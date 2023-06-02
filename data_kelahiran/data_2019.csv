@@ -1,0 +1,13 @@
+tahun,wilayah,jumlah_bayi_lahir,kondisi_bayi,jumlah
+2019,Kepulauan Seribu,33,berat_bayi_lahir_rendah ,1
+2019,Jakarta Selatan,3198,berat_bayi_lahir_rendah ,14
+2019,Jakarta Timur,4838,berat_bayi_lahir_rendah ,57
+2019,Jakarta Pusat,1071,berat_bayi_lahir_rendah ,19
+2019,Jakarta Barat,3749,berat_bayi_lahir_rendah ,17
+2019,Jakarta Utara,2583,berat_bayi_lahir_rendah ,39
+2019,Kepulauan Seribu,33,balita_gizi_kurang,120
+2019,Jakarta Selatan,3198,balita_gizi_kurang,11
+2019,Jakarta Timur,4838,balita_gizi_kurang,35
+2019,Jakarta Pusat,1071,balita_gizi_kurang,8
+2019,Jakarta Barat,3749,balita_gizi_kurang,59
+2019,Jakarta Utara,2583,balita_gizi_kurang,7

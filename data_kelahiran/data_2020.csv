@@ -1,0 +1,13 @@
+tahun,wilayah,jumlah_bayi_lahir,kondisi_bayi,jumlah
+2020,Kepulauan Seribu,469,berat_bayi_lahir_rendah ,27
+2020,Jakarta Selatan,35693,berat_bayi_lahir_rendah ,1403
+2020,Jakarta Timur,50025,berat_bayi_lahir_rendah ,153
+2020,Jakarta Pusat,12578,berat_bayi_lahir_rendah ,175
+2020,Jakarta Barat,41044,berat_bayi_lahir_rendah ,127
+2020,Jakarta Utara,30968,berat_bayi_lahir_rendah ,260
+2020,Kepulauan Seribu,469,balita_gizi_kurang,108
+2020,Jakarta Selatan,35693,balita_gizi_kurang,803
+2020,Jakarta Timur,50025,balita_gizi_kurang,1826
+2020,Jakarta Pusat,12578,balita_gizi_kurang,989
+2020,Jakarta Barat,41044,balita_gizi_kurang,1823
+2020,Jakarta Utara,30968,balita_gizi_kurang,498
