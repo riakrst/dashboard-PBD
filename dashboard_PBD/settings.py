@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 from pathlib import Path
+import djongo
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -84,6 +85,7 @@ DATABASES = {
         'PORT': 27017,
     }
 }
+
 
 
 # Password validation
