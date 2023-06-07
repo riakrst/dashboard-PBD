@@ -44,7 +44,7 @@
   <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="{% url 'show_data' %}" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
         <span class="d-none d-lg-block"> Dashboard</span>
       </a>
@@ -68,7 +68,7 @@
 
       <!-- Start Tables Nav -->
       <li class="nav-item">
-        <a class="nav-link " href="tables-data.html">
+        <a class="nav-link " href="{% url 'show_data' %}">
           <i class="bi bi-layout-text-window-reverse"></i><span>Tables</span></i>
         </a>
       </li><!-- End Tables Nav -->
@@ -108,10 +108,10 @@
                 </div>
               </div>
               
-              <div class="ms-4">
+              <div class="mx-4">
               <h3>Data 2018</h3>
               <table class="table">
-                <thead>
+                <thead class="bg-primary text-light">
                   <tr>
                     <th scope="col">Tahun</th>
                     <th scope="col">Wilayah</th>
@@ -142,7 +142,7 @@
             
               <h3 class="mt-5"s>Data 2019</h3>
               <table class="table">
-                <thead>
+                <thead class="bg-primary  text-light">
                   <tr>
                     <th scope="col">Tahun</th>
                     <th scope="col">Wilayah</th>
@@ -172,7 +172,7 @@
             
               <h3 class="mt-5">Data 2020</h3>
               <table class="table">
-                <thead>
+                <thead class="bg-primary  text-light">
                   <tr>
                     <th scope="col">Tahun</th>
                     <th scope="col">Wilayah</th>
